@@ -1570,5 +1570,16 @@
     "github_repo": "ThatOneWeirdo92/Solasta-Crown-of-the-Magister-Feats",
     "repo_url": "https://ThatOneWeirdo92.github.io/Solasta-Crown-of-the-Magister-Feats/",
     "has_system": false
+  },
+  {
+    "name": "Mike-The-Accountant",
+    "description": "Former Accountant of the Bailwolf Kingdom and is now on the run for Tax Fraud",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Yeetasoreus99/Mike-The-Accountant",
+    "repo_url": "https://Yeetasoreus99.github.io/Mike-The-Accountant/",
+    "has_system": false
   }
 ]

@@ -1710,5 +1710,34 @@
     "github_repo": "britton54-commits/hombrewed-class-gliph-artist",
     "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
     "has_system": false
+  },
+    {
+    "name": "Half-Orc-Dwarf",
+    "description": "Hybrid character for homebrew",
+    "tags": [
+      "5e2024",
+      "forgotten-realms",
+      "heroes-of-faerun",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "MalletGreatshield/Half-Orc-Dwarf",
+    "repo_url": "https://MalletGreatshield.github.io/Half-Orc-Dwarf/",
+    "has_system": false
+  },
+  {
+    "name": "Fangbreaker",
+    "description": "silvered Warhammer safe enough to be used by those touched by lycanthropy.",
+    "tags": [
+      "heroes-of-faerun",
+      "5e2024",
+      "forgotten-realms",
+      "fantasy",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "MalletGreatshield/Fangbreaker",
+    "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
+    "has_system": false
   }
 ]

@@ -1812,5 +1812,19 @@
     "github_repo": "LontraCaolha/e.g-Path-of-the-Grave-walker-feats-",
     "repo_url": "https://LontraCaolha.github.io/e.g-Path-of-the-Grave-walker-feats-/",
     "has_system": false
+  },
+  {
+    "name": "sword-dancer-class",
+    "description": "adding a sword dancer of elistraee class",
+    "tags": [
+      "5e",
+      "homebrew",
+      "faerun",
+      "sword-dancer"
+    ],
+    "stars": 0,
+    "github_repo": "KyteFox/sword-dancer-class",
+    "repo_url": "https://KyteFox.github.io/sword-dancer-class/",
+    "has_system": false
   }
 ]
